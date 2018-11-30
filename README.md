@@ -1,4 +1,4 @@
-![](https://i.imgur.com/dUvNgmd.jpg)  
+![](https://ws1.sinaimg.cn/large/9d9a4ee4ly1fp3hnp5vmoj21hc0u0dj6.jpg)  
 
 # [BIBI福利社](https://99kjy.xyz)
 > 致力于优秀ACG资讯的收集和整理平台
@@ -11,29 +11,9 @@
 
 待添加（12.3左右更新）
 
-## 其他网站封存期间，如果你有非常迫切需要的咨询，请
+## 其他网站封存期间，如果你有非常迫切需要的资源，请发邮件到admin@99kjy.com 获取
 
-### 环境
-![](https://img.shields.io/badge/JAVA-1.8%2B-brightgreen.svg) ![](https://img.shields.io/badge/maven-3.0%2B-brightgreen.svg) ![](https://img.shields.io/badge/node.js-8.0%2B-brightgreen.svg)
-
-	oracle jdk 1.8+或 openjfx(openjdk默认不包含javafx包)
-
-### 编译
-
-```
-git clone https://github.com/proxyee-down-org/proxyee-down.git
-cd proxyee-down/front
-#build html
-npm install
-npm run build
-cd ../main
-mvn clean package -Pprd
-```
-
-### 运行
-```
-java -jar proxyee-down-main.jar
-```
-如果经常访问本网站，请将本页加入到你的浏览器收藏夹中
+### 其他事宜
+如果你经常访问福利社，请把本页面加入你的浏览器收藏夹中
 当前可使用地址 https://www.99kjy.xyz
 网站封存期间，本页面将定时发布每月合集，请留意获取
